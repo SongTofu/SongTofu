@@ -25,7 +25,7 @@
 
 
   ![songtofu's github stats](https://github-readme-stats.vercel.app/api?username=songtofu&show_icons=true)[![yejsong's 42 stats](https://badge42.vercel.app/api/v2/cl4i2vn00002809mpzeizo0zq/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongTofu&count_bg=%23E7CBE7&title_bg=%23B6B6B6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
   ##  📝SNS List📝
@@ -33,4 +33,4 @@
 
   [![Velog](https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@songtofu)](https://velog.io/@songtofu)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/yes_real__s/)](https://www.instagram.com/yes_real__s/)
-
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongTofu&count_bg=%23E7CBE7&title_bg=%23B6B6B6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
