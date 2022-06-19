@@ -18,6 +18,7 @@
   ![Github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual%20Studio%20Code&logoColor=white)
   ![Post Man](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+  ![Jira Software](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=for-the-badge&logo=Jira%20Software&logoColor=white) 
   ![Slcak](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white) 
 
 
