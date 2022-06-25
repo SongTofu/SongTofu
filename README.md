@@ -9,7 +9,7 @@
   ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-
+  ![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=Socket.io&logoColor=white)
 
 
   ## 🛠Tools🛠
