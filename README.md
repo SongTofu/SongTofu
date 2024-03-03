@@ -27,7 +27,7 @@
   ## 🍒About Me🍒
 
 
-  ![songtofu's github stats](https://github-readme-stats.vercel.app/api?username=songtofu&show_icons=true)[![yejsong's 42 stats](https://badge42.vercel.app/api/v2/cl4i2vn00002809mpzeizo0zq/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+  ![songtofu's github stats](https://github-readme-stats.vercel.app/api?username=songtofu&show_icons=true)
 
 
 
